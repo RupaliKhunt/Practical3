@@ -1,0 +1,5 @@
+D:\dotnet\practical-3\practical-3\bin\Debug\practical-3.exe.config
+D:\dotnet\practical-3\practical-3\bin\Debug\practical-3.exe
+D:\dotnet\practical-3\practical-3\bin\Debug\practical-3.pdb
+D:\dotnet\practical-3\practical-3\obj\Debug\practical-3.exe
+D:\dotnet\practical-3\practical-3\obj\Debug\practical-3.pdb
